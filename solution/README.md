@@ -214,5 +214,6 @@ Nella figura seguente sono mostrati i risultati.
 ##### Project Template
 
 - test: cartella contenente tutti i risultati dei test dello strong e weak scaling oltre alle immagini dei grafici e dei test fatti
-- src: contiene l'eseguibile del programma realizzato e il file.c del progetto svolto
+- nBody.c: File del problema scritto in C
+- nbody: eseguibile del programma
 
