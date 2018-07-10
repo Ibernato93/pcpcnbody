@@ -189,9 +189,8 @@ Nella fase di test si sono analizzate la strong scaling e la weak scaling.
 
 Tutti i test sono stati quindi effettuati utilizzando il seguente comando 
 ```
-mpirun -np <NUMERO_PROCESSORI> --hostfile hostlist nbody <NUMERO_CORPI> 10
+mpirun -np <NUMERO_PROCESSORI> --hostfile hostlist nbody <NUMERO_CORPI> <NUMERO_ITERAZIONI>
 ```
-
 ## Strong Scaling
 
 Per misurare la strong scaling si sono utilizzate 30.000 particelle.
