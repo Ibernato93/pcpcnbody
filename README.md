@@ -160,7 +160,7 @@ int nIters; //Numero di iterazioni
 int printFreq; //frequenza di stampa
 ```
 
-##INSRALLAZIONE DEL PROGRAMMA
+## INSRALLAZIONE DEL PROGRAMMA
 
 Navigare in 
 cd src/
